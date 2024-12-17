@@ -19,7 +19,7 @@
 
 I had previously used both electric and gasoline motorcycles. Due to the high prices of gasoline motorcycles, I started researching electric motorcycles with a power of 3000 watts. The prices of 3000-watt electric motorcycles ranged between $1,500 and $2,500.
 
-Since the prices of electric motorcycles were also high, I wondered if I could build a 3000-watt electric motorcycle myself and made a rough cost estimate. According to my calculations, with the design and craftsmanship being my own, the cost would be around 25,000 TL. The desire to improve myself and the happiness I feel when my ideas come to fruition motivated me to build the motorcycle. I will generally explain the process under a few headings.
+Since the prices of electric motorcycles were also high, I wondered if I could build a 3000-watt electric motorcycle myself and made a rough cost estimate. According to my calculations, with the design and craftsmanship being my own, the cost would be around $750. The desire to improve myself and the happiness I feel when my ideas come to fruition motivated me to build the motorcycle. I will generally explain the process under a few headings.
 
 ## Desing Phase
 
